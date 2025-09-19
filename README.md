@@ -25,7 +25,8 @@ Este repositório foi criado para armazenar e organizar 200 exercícios prático
 
 ---
 
-### Progresso
+### 📈 Progresso 
+
 
 O projeto será concluído em etapas, com envios regulares para o GitHub. A cada conjunto de 5 exercícios, um novo `push` será realizado, seguindo a regra de:
 
@@ -35,12 +36,10 @@ O projeto será concluído em etapas, com envios regulares para o GitHub. A cada
 
 Você pode navegar pelos arquivos para ver as soluções e os códigos desenvolvidos.
 
-### 📈 Progresso 
-
 **Status:**
 - [x] Exercícios 01 a 05
 - [x] Exercícios 06 a 10
-- [ ] Exercícios 11 a 15
+- [x] Exercícios 11 a 15
 - [ ] Exercícios 16 a 20
 - [ ] Exercícios 21 a 25
 - [ ] Exercícios 26 a 30
