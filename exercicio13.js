@@ -1,5 +1,4 @@
-// Exercício 13: Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa
-// e imprime uma mensagem indicando se a pessoa está abaixo do peso, com peso normal, com sobrepeso ou obesa.
+// Exercício 13: Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa e imprime uma mensagem indicando se a pessoa está abaixo do peso, com peso normal, com sobrepeso ou obesa.
 
 // Fórmula do IMC: IMC = peso / (altura * altura)
 // Classificação padrão da OMS:
