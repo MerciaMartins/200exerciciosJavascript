@@ -42,7 +42,7 @@ Você pode navegar pelos arquivos para ver as soluções e os códigos desenvolv
 - [x] Exercícios 11 a 15
 - [x] Exercícios 16 a 20
 - [x] Exercícios 21 a 25
-- [ ] Exercícios 26 a 30
+- [x] Exercícios 26 a 30
 - [ ] Exercícios 31 a 35
 - [ ] Exercícios 36 a 40
 - [ ] Exercícios 41 a 45
