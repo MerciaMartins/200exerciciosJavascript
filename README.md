@@ -44,7 +44,7 @@ Você pode navegar pelos arquivos para ver as soluções e os códigos desenvolv
 - [x] Exercícios 21 a 25
 - [x] Exercícios 26 a 30
 - [x] Exercícios 31 a 35
-- [ ] Exercícios 36 a 40
+- [x] Exercícios 36 a 40
 - [ ] Exercícios 41 a 45
 - [ ] Exercícios 46 a 50
 - [ ] Exercícios 51 a 55
