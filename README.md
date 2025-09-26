@@ -46,8 +46,38 @@ Você pode navegar pelos arquivos para ver as soluções e os códigos desenvolv
 - [x] Exercícios 31 a 35
 - [x] Exercícios 36 a 40
 - [X] Exercícios 41 a 45
-- [ ] Exercícios 46 a 50
+- [x] Exercícios 46 a 50
 - [ ] Exercícios 51 a 55
+- [ ] Exercícios 56 a 60  
+- [ ] Exercícios 61 a 65  
+- [ ] Exercícios 66 a 70  
+- [ ] Exercícios 71 a 75  
+- [ ] Exercícios 76 a 80  
+- [ ] Exercícios 81 a 85  
+- [ ] Exercícios 86 a 90  
+- [ ] Exercícios 91 a 95  
+- [ ] Exercícios 96 a 100  
+- [ ] Exercícios 101 a 105  
+- [ ] Exercícios 106 a 110  
+- [ ] Exercícios 111 a 115  
+- [ ] Exercícios 116 a 120  
+- [ ] Exercícios 121 a 125  
+- [ ] Exercícios 126 a 130  
+- [ ] Exercícios 131 a 135  
+- [ ] Exercícios 136 a 140  
+- [ ] Exercícios 141 a 145  
+- [ ] Exercícios 146 a 150  
+- [ ] Exercícios 151 a 155  
+- [ ] Exercícios 156 a 160  
+- [ ] Exercícios 161 a 165  
+- [ ] Exercícios 166 a 170  
+- [ ] Exercícios 171 a 175  
+- [ ] Exercícios 176 a 180  
+- [ ] Exercícios 181 a 185  
+- [ ] Exercícios 186 a 190  
+- [ ] Exercícios 191 a 195  
+- [ ] Exercícios 196 a 200 
+
 
 ---
 
