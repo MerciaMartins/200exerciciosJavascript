@@ -51,7 +51,7 @@ Você pode navegar pelos arquivos para ver as soluções e os códigos desenvolv
 - [x] Exercícios 56 a 60  
 - [x] Exercícios 61 a 65  
 - [x]Exercícios 66 a 70  
-- [ ] Exercícios 71 a 75  
+- [x] Exercícios 71 a 75  
 - [ ] Exercícios 76 a 80  
 - [ ] Exercícios 81 a 85  
 - [ ] Exercícios 86 a 90  
