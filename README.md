@@ -50,7 +50,7 @@ Você pode navegar pelos arquivos para ver as soluções e os códigos desenvolv
 - [x] Exercícios 51 a 55
 - [x] Exercícios 56 a 60  
 - [x] Exercícios 61 a 65  
-- [ ] Exercícios 66 a 70  
+- [x]Exercícios 66 a 70  
 - [ ] Exercícios 71 a 75  
 - [ ] Exercícios 76 a 80  
 - [ ] Exercícios 81 a 85  
