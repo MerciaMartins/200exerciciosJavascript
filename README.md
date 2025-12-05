@@ -53,10 +53,10 @@ Você pode navegar pelos arquivos para ver as soluções e os códigos desenvolv
 - [x] Exercícios 66 a 70  
 - [x] Exercícios 71 a 75  
 - [x] Exercícios 76 a 80  
-- [ ] Exercícios 81 a 85  
-- [ ] Exercícios 86 a 90  
-- [ ] Exercícios 91 a 95  
-- [ ] Exercícios 96 a 100  
+- [x] Exercícios 81 a 85  
+- [x] Exercícios 86 a 90  
+- [x] Exercícios 91 a 95  
+- [x] Exercícios 96 a 100  
 - [ ] Exercícios 101 a 105  
 - [ ] Exercícios 106 a 110  
 - [ ] Exercícios 111 a 115  
